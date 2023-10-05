@@ -37,17 +37,17 @@
             // buUp
             // 
             buUp.Font = new Font("Segoe UI", 20F, FontStyle.Regular, GraphicsUnit.Point);
-            buUp.Location = new Point(12, 12);
+            buUp.Location = new Point(12, 15);
             buUp.Name = "buUp";
-            buUp.Size = new Size(190, 93);
+            buUp.Size = new Size(324, 93);
             buUp.TabIndex = 0;
-            buUp.Text = "00:00:00";
+            buUp.Text = "00:00:000";
             buUp.UseVisualStyleBackColor = true;
             // 
             // buUpPause
             // 
             buUpPause.Font = new Font("Segoe UI", 15F, FontStyle.Regular, GraphicsUnit.Point);
-            buUpPause.Location = new Point(222, 12);
+            buUpPause.Location = new Point(342, 15);
             buUpPause.Name = "buUpPause";
             buUpPause.Size = new Size(98, 93);
             buUpPause.TabIndex = 1;
@@ -56,23 +56,25 @@
             // 
             // pbUp
             // 
-            pbUp.Location = new Point(367, 15);
+            pbUp.Location = new Point(487, 18);
             pbUp.Name = "pbUp";
-            pbUp.Size = new Size(277, 29);
+            pbUp.Size = new Size(372, 29);
             pbUp.TabIndex = 2;
             // 
             // pbUpMs
             // 
-            pbUpMs.Location = new Point(367, 76);
+            pbUpMs.Location = new Point(487, 79);
+            pbUpMs.Maximum = 10;
             pbUpMs.Name = "pbUpMs";
-            pbUpMs.Size = new Size(277, 29);
+            pbUpMs.Size = new Size(372, 29);
+            pbUpMs.Step = 100;
             pbUpMs.TabIndex = 3;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(903, 208);
             Controls.Add(pbUpMs);
             Controls.Add(pbUp);
             Controls.Add(buUpPause);
