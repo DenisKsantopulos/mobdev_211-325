@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wfaFormSDI", "wfaFormSDI.csproj", "{2992FA35-0917-4FA7-B98B-BCF9EF93A10E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2992FA35-0917-4FA7-B98B-BCF9EF93A10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2992FA35-0917-4FA7-B98B-BCF9EF93A10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2992FA35-0917-4FA7-B98B-BCF9EF93A10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2992FA35-0917-4FA7-B98B-BCF9EF93A10E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A0F218B-405F-4BAE-B44C-EE9533DD2A0F}
+	EndGlobalSection
+EndGlobal
