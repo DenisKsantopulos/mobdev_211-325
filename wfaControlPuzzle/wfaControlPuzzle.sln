@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wfaControlPuzzle", "wfaControlPuzzle.csproj", "{E8E6E25C-D206-4D3F-B8FF-C78E41B7123F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8E6E25C-D206-4D3F-B8FF-C78E41B7123F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E6E25C-D206-4D3F-B8FF-C78E41B7123F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E6E25C-D206-4D3F-B8FF-C78E41B7123F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E6E25C-D206-4D3F-B8FF-C78E41B7123F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {909B9273-823F-4633-860D-A81B30E62942}
+	EndGlobalSection
+EndGlobal
