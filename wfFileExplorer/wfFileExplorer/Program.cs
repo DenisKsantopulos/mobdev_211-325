@@ -1,4 +1,4 @@
-namespace wfaFileExplore
+namespace wfFileExplorer
 {
     internal static class Program
     {
